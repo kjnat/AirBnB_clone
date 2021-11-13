@@ -93,6 +93,3 @@ class TestState(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-© 2021 GitHub, Inc.
-Terms
-Privac
