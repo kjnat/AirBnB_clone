@@ -8,3 +8,17 @@ A prompt will then appear like this:
 
 This prompt has built in commands of which you can use for your project:
 (hbnb) quit
+
+Your shell should look like this in the interactive mode:
+
+$ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb) 
+(hbnb) 
+(hbnb) quit
+$
